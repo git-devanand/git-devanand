@@ -6,8 +6,8 @@
 <h5 align="center"> 🔭 I’m currently working on Docker-Containerised-Automated Tools</h1>
 <h5 align="center"> 🌱 I’m currently learning </h1>
 <p align="center">
-<img alt="Linux" height="22" width="22"  src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-  <img alt="Docker" height="22" width="22" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+<img alt="MERN" height="22" width="flex"  src="https://geeksperhour.com/wp-content/uploads/2019/02/mern-img.png"/>
+  <img alt="Django" height="22" width="flex" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
 <img alt="Bash" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/gnubash.svg" />
   <img alt="Kali Linux" height="22" width="22" src="https://img.icons8.com/color/48/000000/kali-linux.png"/> 
   </p>
@@ -24,7 +24,7 @@
 <img alt="Html" height="22" width="22" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />
 <img alt="Css" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
 <img alt="AndroidStudio" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
-<img alt="Subl" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/sublimetext.svg" />
+<img alt="Docker" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/docker.svg" />
 <img alt=VsCode"" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/visualstudiocode.svg" />
 </p>
 
