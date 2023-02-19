@@ -54,8 +54,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=randomPassGen&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/git-devanand/devqubit">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=devqubit&theme=tokyonight" />
+<a href="https://github.com/git-devanand/django_project">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=django_project&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/git-devanand/ai_projects">
