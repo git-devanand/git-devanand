@@ -29,37 +29,37 @@
 ---
 
 <div align="center"><a href="#">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=harekrishnarai&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=git-devanand&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harekrishnarai&theme=tokyonight&hide_border=true"/><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-devanand&theme=tokyonight&hide_border=true"/><br><br>
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harekrishnarai&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-devanand&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 </a>
 
 ### My Projects ✨:
   
-<a href="https://github.com/harekrishnarai/telegram-to-gmail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=telegram-to-gmail&theme=tokyonight" />
+<a href="https://github.com/git-devanand/dev-face-mask-detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=dev-face-mask-detector&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/harekrishnarai/simple_calc">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=simple_calc&theme=tokyonight" />
+<a href="https://github.com/git-devanand/covid-19_x-ray_detection">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=covid-19_x-ray_detection&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/harekrishnarai/cloudwithterraform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=cloudwithterraform&theme=tokyonight" />
+<a href="https://github.com/git-devanand/docker_web_host">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=docker_web_host&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/harekrishnarai/apk-downloader-from-cli">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=apk-downloader-from-cli&theme=tokyonight" />
+<a href="https://github.com/git-devanand/randomPassGen">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=randomPassGen&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/harekrishnarai/kubernetes-on-aws">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=kubernetes-on-aws&theme=tokyonight" />
+<a href="https://github.com/git-devanand/devqubit">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=devqubit&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/harekrishnarai/docker-project">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harekrishnarai&repo=docker-project&theme=tokyonight" />
+<a href="https://github.com/git-devanand/ai_projects">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=git-devanand&repo=ai_projects&theme=tokyonight" />
 </a>
 
 </div>
