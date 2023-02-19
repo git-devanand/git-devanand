@@ -12,13 +12,15 @@
   <img alt="Kali Linux" height="22" width="22" src="https://img.icons8.com/color/48/000000/kali-linux.png"/> 
   </p>
 <h5 align="center"> 📫 How to reach me: </h1>
-<p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/harekrishna_rai"><img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
-&nbsp; &nbsp; <a href="https://www.instagram.com/hare.krishna.rai/"> <img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
+<p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/Devanan81306625"><img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
+&nbsp; &nbsp; <a href="https://www.instagram.com/devanand.py/"> <img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/instagram.svg" > </a> </p>
 <h3 align="center">Technologies & Tools:</h3><br/>
 <p align="center">
 <img alt="Linux" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/linux.svg" />
-<img  alt="Flutter" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/flutter.svg" />
-<img alt="Dart" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/dart.svg" />
+<img  alt="Python" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/python.svg" />
+<img alt="Django" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/django.svg" />
+<img alt="MySQL" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/mysql.svg" />
+<img alt="MongoDB" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/mongodb.svg" />
 <img alt="Html" height="22" width="22" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/html/html.svg" />
 <img alt="Css" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/css3.svg" />
 <img alt="AndroidStudio" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/androidstudio.svg" />
