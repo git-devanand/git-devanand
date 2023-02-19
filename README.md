@@ -7,9 +7,9 @@
 <h5 align="center"> 🌱 I’m currently learning </h1>
 <p align="center">
 <img alt="MERN" height="22" width="flex"  src="https://geeksperhour.com/wp-content/uploads/2019/02/mern-img.png"/>
-  <img alt="Django" height="22" width="flex" src="https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-white.png" />
+<img alt="Django" height="22" width="flex" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" />
 <img alt="Bash" height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/gnubash.svg" />
-  <img alt="Kali Linux" height="22" width="22" src="https://img.icons8.com/color/48/000000/kali-linux.png"/> 
+<img alt="Kali Linux" height="22" width="22" src="https://img.icons8.com/color/48/000000/kali-linux.png"/> 
   </p>
 <h5 align="center"> 📫 How to reach me: </h1>
 <p align="center"> Send Me a messsage 😄 <br> <a href="https://twitter.com/Devanan81306625"><img height="22" width="22" src="https://unpkg.com/simple-icons@3.4.0/icons/twitter.svg" /></a>
