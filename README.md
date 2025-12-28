@@ -2,9 +2,9 @@
 
 ---
 
-<h4 align="center"> I'm a Student, TechGeek </h1>
-<h5 align="center"> 🔭 I’m currently working on Docker-Containerised-Automated Tools</h1>
-<h5 align="center"> 🌱 I’m currently learning </h1>
+<h4 align="center"> I'm Founder and CEO at BrahmandX Innovations </h1>
+<h5 align="center"> 🔭 I’m currently working on developing a new programming language Sanskritam Programming Language (SPL)</h1>
+<h5 align="center"> 🌱 I’m currently leading my company and as independent reseacher. </h1>
 <p align="center">
 <img alt="MERN" height="22" width="flex"  src="https://geeksperhour.com/wp-content/uploads/2019/02/mern-img.png"/>
 <img alt="Django" height="22" width="flex" src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" />
